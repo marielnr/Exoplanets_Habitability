@@ -7,6 +7,8 @@ This repository contains analyzed exoplanet data from the NASA Kepler mission to
 - **Citation:** NASA Exoplanet Archive. (2025). *Cumulative Kepler Object of Interest (KOI) table* [Data set]. NASA Exoplanet Science Institute. https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative
 - **File:** `df_processed.csv` - Processed dataset with features like equilibrium temperature, planetary radius, and habitability predictions.
 
+<img width="822" height="537" alt="image" src="https://github.com/user-attachments/assets/46cc912b-4560-4c94-ba1f-69291a946d6b" />
+
 ## Analysis
 - **Tools:** Python (Google Colab)
 - **Methodology:**
